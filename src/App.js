@@ -73,7 +73,7 @@ class App extends Component {
             <div className="row">
               <div className="col-md-8">
                 {" "}
-                <h1 className="text-primary">Assignment - internship(100ms)</h1>
+                <h1 className="text-primary">My project</h1>
               </div>
               <div className="col-md-1">
                 {" "}
